@@ -323,5 +323,70 @@
         "pattern": "Microsoft Word - Draft TOR LV bus duct case resin by power plant operation.DOC",
         "category": "doc_title",
         "sensitive": true
+    },
+    {
+        "pattern": "Unit 12-13",
+        "category": "unit_range",
+        "sensitive": true
+    },
+    {
+        "pattern": "Units 8-9",
+        "category": "unit_range",
+        "sensitive": true
+    },
+    {
+        "pattern": "Units 8",
+        "category": "unit_range",
+        "sensitive": true
+    },
+    {
+        "pattern": "Units 8-11",
+        "category": "unit_range",
+        "sensitive": true
+    },
+    {
+        "pattern": "MM12-13RP-I-010",
+        "category": "doc_code",
+        "sensitive": true
+    },
+    {
+        "pattern": "MMRP12-13RP-C-001",
+        "category": "doc_code",
+        "sensitive": true
+    },
+    {
+        "pattern": "MM12-13RP-C-004",
+        "category": "doc_code",
+        "sensitive": true
+    },
+    {
+        "pattern": "MM12-13RP-C-005",
+        "category": "doc_code",
+        "sensitive": true
+    },
+    {
+        "pattern": "MM12-13RP-I-001",
+        "category": "doc_code",
+        "sensitive": true
+    },
+    {
+        "pattern": "Rojyos Mahotorn",
+        "category": "author_name",
+        "sensitive": true
+    },
+    {
+        "pattern": "เ\\t\\u001e",
+        "category": "author_name",
+        "sensitive": true
+    },
+    {
+        "pattern": "\\u0007.",
+        "category": "author_name",
+        "sensitive": true
+    },
+    {
+        "pattern": "Part 3C_Electrical equipment",
+        "category": "doc_title",
+        "sensitive": true
     }
 ]
