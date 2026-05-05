@@ -1,0 +1,297 @@
+[
+    {
+        "pattern": "Electricity  Generating  Authority  of  Thailand",
+        "category": "company",
+        "sensitive": false
+    },
+    {
+        "pattern": "Green Power Company Limited",
+        "category": "company",
+        "sensitive": false
+    },
+    {
+        "pattern": "IWTE",
+        "category": "project_type",
+        "sensitive": false
+    },
+    {
+        "pattern": "Waste to Energy",
+        "category": "project_type",
+        "sensitive": false
+    },
+    {
+        "pattern": "Energy Project",
+        "category": "project_type",
+        "sensitive": false
+    },
+    {
+        "pattern": "Solid  Recovered  Fuel",
+        "category": "fuel",
+        "sensitive": false
+    },
+    {
+        "pattern": "Thailand",
+        "category": "country",
+        "sensitive": false
+    },
+    {
+        "pattern": "EGAT",
+        "category": "company",
+        "sensitive": true
+    },
+    {
+        "pattern": "PEA",
+        "category": "company",
+        "sensitive": true
+    },
+    {
+        "pattern": "GGP",
+        "category": "company",
+        "sensitive": true
+    },
+    {
+        "pattern": "SRF",
+        "category": "fuel",
+        "sensitive": true
+    },
+    {
+        "pattern": "ELECTRICITY GENERATING AUTHORITY",
+        "category": "company",
+        "sensitive": false
+    },
+    {
+        "pattern": "OF THAILAND",
+        "category": "country",
+        "sensitive": false
+    },
+    {
+        "pattern": "MAEHONGSON SMART GRID PILOT PROJECT",
+        "category": "project",
+        "sensitive": false
+    },
+    {
+        "pattern": "MSPP",
+        "category": "project",
+        "sensitive": false
+    },
+    {
+        "pattern": "MAEHONGSON",
+        "category": "province",
+        "sensitive": false
+    },
+    {
+        "pattern": "Pha Bong",
+        "category": "sub_district",
+        "sensitive": false
+    },
+    {
+        "pattern": "Chulalongkorn University",
+        "category": "university",
+        "sensitive": false
+    },
+    {
+        "pattern": "Mae Sa Nga",
+        "category": "hydro_plant",
+        "sensitive": false
+    },
+    {
+        "pattern": "Muang",
+        "category": "district",
+        "sensitive": false
+    },
+    {
+        "pattern": "Bangkok",
+        "category": "city",
+        "sensitive": false
+    },
+    {
+        "pattern": "Provincial Electricity Authority",
+        "category": "company",
+        "sensitive": false
+    },
+    {
+        "pattern": "Units 12-13",
+        "category": "unit",
+        "sensitive": false
+    },
+    {
+        "pattern": "Mae Moh Units 8-9 Replacement Project",
+        "category": "project",
+        "sensitive": false
+    },
+    {
+        "pattern": "MMRP",
+        "category": "project",
+        "sensitive": false
+    },
+    {
+        "pattern": "Mae Moh",
+        "category": "location",
+        "sensitive": false
+    },
+    {
+        "pattern": "Lampang Province",
+        "category": "province",
+        "sensitive": false
+    },
+    {
+        "pattern": "Mae Moh mine",
+        "category": "mine",
+        "sensitive": false
+    },
+    {
+        "pattern": "Mae Chang",
+        "category": "reservoir",
+        "sensitive": false
+    },
+    {
+        "pattern": "Mae Kham reservoir",
+        "category": "reservoir",
+        "sensitive": false
+    },
+    {
+        "pattern": "MO-RA-KOT Building",
+        "category": "building",
+        "sensitive": false
+    },
+    {
+        "pattern": "18° 17' 0.0\" N",
+        "category": "coordinates",
+        "sensitive": false
+    },
+    {
+        "pattern": "99° 31' 0.0\" E",
+        "category": "coordinates",
+        "sensitive": false
+    },
+    {
+        "pattern": "Thai Government Authority",
+        "category": "authority",
+        "sensitive": false
+    },
+    {
+        "pattern": "Thai Council of Engineers",
+        "category": "engineering_council",
+        "sensitive": false
+    },
+    {
+        "pattern": "Construction Permit",
+        "category": "permit",
+        "sensitive": false
+    },
+    {
+        "pattern": "Factory Operation Permit",
+        "category": "permit",
+        "sensitive": false
+    },
+    {
+        "pattern": "Electricity Generating Authority of Thailand",
+        "category": "company",
+        "sensitive": false
+    },
+    {
+        "pattern": "Refurbishment Project",
+        "category": "project_type",
+        "sensitive": true
+    },
+    {
+        "pattern": "12/2025",
+        "category": "project_code",
+        "sensitive": true
+    },
+    {
+        "pattern": "Units 1-2",
+        "category": "unit_range",
+        "sensitive": true
+    },
+    {
+        "pattern": "Unit 11",
+        "category": "unit_range",
+        "sensitive": true
+    },
+    {
+        "pattern": "Unit 12",
+        "category": "unit_range",
+        "sensitive": true
+    },
+    {
+        "pattern": "China Energy",
+        "category": "company",
+        "sensitive": false
+    },
+    {
+        "pattern": "Shanxi",
+        "category": "location",
+        "sensitive": false
+    },
+    {
+        "pattern": "Caixb",
+        "category": "author_name",
+        "sensitive": true
+    },
+    {
+        "pattern": "ETAP二维打印",
+        "category": "doc_title",
+        "sensitive": true
+    },
+    {
+        "pattern": "TSE-001-E-101-000-001",
+        "category": "doc_code",
+        "sensitive": true
+    },
+    {
+        "pattern": "TSE-001-E-100-000-002-B",
+        "category": "doc_code",
+        "sensitive": true
+    },
+    {
+        "pattern": "COM-001-G-150-000-010",
+        "category": "doc_code",
+        "sensitive": true
+    },
+    {
+        "pattern": "TSE-001-E-100-000-002-B Load flow, short citrcuit, transient and steady stability, motor starting study and calculation",
+        "category": "doc_title",
+        "sensitive": true
+    },
+    {
+        "pattern": "กฟผ.",
+        "category": "company",
+        "sensitive": true
+    },
+    {
+        "pattern": "การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย",
+        "category": "company",
+        "sensitive": true
+    },
+    {
+        "pattern": "MMRP1-D-ASEE-B-2046",
+        "category": "doc_code",
+        "sensitive": true
+    },
+    {
+        "pattern": "แม่เมาะ",
+        "category": "name",
+        "sensitive": true
+    },
+    {
+        "pattern": "MMRP1",
+        "category": "name",
+        "sensitive": true
+    },
+    {
+        "pattern": "2026-03-09",
+        "category": "date",
+        "sensitive": true
+    },
+    {
+        "pattern": "2026-03-09 04:25:00+00:00",
+        "category": "timestamp",
+        "sensitive": true
+    },
+    {
+        "pattern": "Windows User",
+        "category": "author_name",
+        "sensitive": true
+    }
+]
